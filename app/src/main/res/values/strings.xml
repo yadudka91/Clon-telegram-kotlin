@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Telegram2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="settings_default_username">Yarik Dudka</string>
+    <string name="settings_default_status">в сети</string>
+    <string name="settings_text_account">Аккаунт</string>
+    <string name="settings_default_number">+380660055388</string>
+    <string name="settings_label_phone_number">Нажмите, чтобы изменить номер телефона</string>
+    <string name="settings_default_login">yarikdudka</string>
+    <string name="settings_label_login">Имя пользователя</string>
+    <string name="settings_default_bio">О себе</string>
+    <string name="settings_label_bio">Напишите немного о себе</string>
+    <string name="settings_menu_change_name">Изменить имя</string>
+    <string name="settings_menu_exit">Выход</string>
+    <string name="cd_register_image">register_image</string>
+    <string name="register_text_enter_code">Введите код</string>
+    <string name="register_text_we_sent">Мы отправили SMS с кодом проверки на Ваш телефон</string>
+    <string name="register_hint_default_code">- - - - - -</string>
+    <string name="register_title_your_phone">Ваш телефон</string>
+    <string name="register_toast_enter_phone">Введите номер телефону</string>
+    <string name="register_phone_hint">------------</string>
+    <string name="settings_hint_input_name">Имя</string>
+    <string name="settings_hint_input_surname">Фамилия</string>
+    <string name="settings_toast_name_is_empty">Имя не может быть пустым</string>
+    <string name="toast_data_update">Данные обновлены</string>
+    <string name="settings_hint_input_username">username</string>
+    <string name="settings_input_bio">bio</string>
+</resources>
